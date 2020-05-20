@@ -4,4 +4,4 @@
 应用场景：智能应答。
 例如：用户对机器人说：“我要团购一百零八张门票。”，我们就可以通过该算法抽取门票数量值，生成对应的订单信息和支付二维码。
 
-![avatar](screenshot.png)
+![avatar](https://github.com/xieyicai/text/blob/master/screenshot.png)
